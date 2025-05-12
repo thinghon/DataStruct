@@ -1,0 +1,4 @@
+﻿  2.c
+C:\Users\pki10\Desktop\대학교\2-1자료구조 1\프로그램\w4\student\student\2.c(132,19): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+C:\Users\pki10\Desktop\대학교\2-1자료구조 1\프로그램\w4\student\student\2.c(132,19): warning C4024: 'print_data': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+  student.vcxproj -> C:\Users\pki10\Desktop\대학교\2-1자료구조 1\프로그램\w4\student\x64\Debug\student.exe

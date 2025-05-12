@@ -1,0 +1,10 @@
+﻿  1.c
+C:\Users\pki10\Desktop\대학교\2-1자료구조 1\프로그램\w6\1\1\1.c(18,20): warning C4133: '=': 'KeywordNode *'과(와) 'KeywordNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\pki10\Desktop\대학교\2-1자료구조 1\프로그램\w6\1\1\1.c(25,20): warning C4133: '함수': 'KeywordNode *'과(와) 'KeywordNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\pki10\Desktop\대학교\2-1자료구조 1\프로그램\w6\1\1\1.c(34,46): warning C4133: '=': 'KeywordNode *'과(와) 'KeywordNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\pki10\Desktop\대학교\2-1자료구조 1\프로그램\w6\1\1\1.c(51,23): warning C4133: '=': 'KeywordNode *'과(와) 'KeywordNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\pki10\Desktop\대학교\2-1자료구조 1\프로그램\w6\1\1\1.c(61,17): warning C4133: '=': 'KeywordNode *'과(와) 'KeywordNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\pki10\Desktop\대학교\2-1자료구조 1\프로그램\w6\1\1\1.c(71,7): warning C4133: '=': 'KeywordNode *'과(와) 'KeywordNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\pki10\Desktop\대학교\2-1자료구조 1\프로그램\w6\1\1\1.c(75,11): warning C4133: '=': 'KeywordNode *'과(와) 'KeywordNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\pki10\Desktop\대학교\2-1자료구조 1\프로그램\w6\1\1\1.c(129,14): warning C4133: '=': 'KeywordNode *'과(와) 'KeywordNode *' 사이의 형식이 호환되지 않습니다.
+  1.vcxproj -> C:\Users\pki10\Desktop\대학교\2-1자료구조 1\프로그램\w6\1\x64\Debug\1.exe

@@ -1,0 +1,5 @@
+﻿  소인수.c
+C:\Users\pki10\Desktop\대학교\2-1자료구조 1\프로그램\w2\w2 소인수분해(lab)\w2 소인수분해(lab)\소인수.c(14,13): warning C4013: 'check_prime'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\pki10\Desktop\대학교\2-1자료구조 1\프로그램\w2\w2 소인수분해(lab)\w2 소인수분해(lab)\소인수.c(16,13): warning C4098: 'integer': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\pki10\Desktop\대학교\2-1자료구조 1\프로그램\w2\w2 소인수분해(lab)\w2 소인수분해(lab)\소인수.c(22,5): warning C4098: 'integer': 'void' 함수에서 값을 반환하고 있습니다.
+  w2 소인수분해(lab).vcxproj -> C:\Users\pki10\Desktop\대학교\2-1자료구조 1\프로그램\w2\w2 소인수분해(lab)\x64\Debug\w2 소인수분해(lab).exe
